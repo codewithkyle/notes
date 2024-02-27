@@ -1,1 +1,0 @@
-- [ ] Finish C networking course
