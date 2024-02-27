@@ -1,0 +1,3 @@
+- [ ] Standup ZooKeeper
+- [ ] Standup Kafka instances
+- [ ] Configure DNS settings
