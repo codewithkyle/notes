@@ -4,3 +4,5 @@
 	- [ ] Add -h flag to Sailfish
 	- [ ] Add rust test / build workflow to Sailfish
 - [ ] Add button switch toggle component to Brixi UI
+- [ ] Purchase Affinity Suite 2
+- [ ] Design Schema Sketcher web app
