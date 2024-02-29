@@ -1,3 +1,3 @@
+- [ ] Finish Asset Tracker changes (Network Hardware)
 - [x] Standup ZooKeeper
 - [x] Standup Kafka instances
-- [ ] Finish Asset Tracker changes (Network Hardware)
