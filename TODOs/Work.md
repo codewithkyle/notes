@@ -1,3 +1,3 @@
-- [ ] Standup ZooKeeper
-- [ ] Standup Kafka instances
-- [ ] Configure DNS settings
+- [x] Standup ZooKeeper
+- [x] Standup Kafka instances
+- [ ] Finish Asset Tracker changes (Network Hardware)
