@@ -1,0 +1,9 @@
+The Cult of the Worm, as they are known, is a secretive group of fanatics who worship the giant worm god Oueblek as the ultimate expression of destruction and rebirth. They believe that the only way to achieve true enlightenment is to embrace the chaos and destruction that Oueblek brings, and that by summoning the worm god, they will be able to remake the world in their own image.
+
+The cult's origins are shrouded in mystery, but it is said that they were founded by a powerful sorcerer who had communed with Oueblek in a fevered dream. The sorcerer became convinced that Oueblek was the key to unlocking the secrets of the universe, and he devoted his life to summoning the worm god and learning its secrets.
+
+Over time, the cult grew in size and influence, attracting all manner of disaffected and disillusioned individuals who saw in Oueblek's destructive power a way to escape the confines of society and create a new order. They began to perform blood rituals, sacrificing innocent victims to summon Oueblek and gain its favor.
+
+But as the cult's power grew, so did its ambitions. They began to see themselves as the chosen ones, the only ones worthy of surviving the coming apocalypse that Oueblek's awakening would bring. They preached a message of destruction and rebirth, promising that those who embraced the chaos would be reborn as gods in a new world, ruled by Oueblek and his chosen few.
+
+The cult's influence spread, drawing in more and more followers They infiltrated governments and secret societies, working in the shadows to bring about Oueblek's awakening. They gathered artifacts and knowledge, using their arcane powers to summon demons and other monstrous creatures to do their bidding.
