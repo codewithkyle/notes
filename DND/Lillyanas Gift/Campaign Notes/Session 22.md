@@ -53,6 +53,21 @@ So gather 'round, intrepid travelers, as we dive once more into the vast realms 
 	- Has Deadwall flags and propaganda hanging in the common areas
 	- Business has been slow. The refugees have moved on to Highport and Maplemill
 
+**Miniser of Commerce**: Korban Porter
+
+### Seban's Seven Wonders
+
+**Owner**: Seban Batler
+
+Candle of the Deep
+Ear Horn of Hearing
+Feather Token
+
+Dontae Vance purchased Lock of Trickery lives at 528 Willowick Lane
+
+**Sgt of the Guard**: Aden Norridge
+**Cpt of the Guard**: Jorgan Boggs
+
 ### The Kingmaker Sends His Regards
 
 Since the party reused to acknowledge their debt to the Kingmaker he will send his goons to kidnap Brenmae from The Squeak Easy. She will have a metal collar bomb placed around her neck while she is unconscious. She will wake up with a note instructing her to locate and kill King Madhar Doxon within 24 hours. The collar bomb has an arcane lock and is filled with a few dozen fireball spell beads.
