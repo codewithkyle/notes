@@ -1,0 +1,1 @@
+**Intro**: Nordar and Brenmay are sitting at a table in The Silver Raven. They are discussing what to do about their recent events. Guy has just entered the tavern and is approaching them.
