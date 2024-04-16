@@ -1,6 +1,87 @@
 #### Core Takeaways
 
-1. Do fewer things.
-2. Work at a natural pace.
-3. Obsess over quality.
-4. Give a shit.
+- Do fewer things
+	- Don't say yes or no in the moment. Deflect and respond later.
+		- Mention that you're careful about how to manage your time
+		- Mention you have a process
+	- Limit missions, projects, and daily goals
+		- Don't take on more than 2 or 3 missions at once (1+ week of work each)
+		- Don't take on projects unless you have time (work that can be done within a day)
+		- Only work on 1 project or mission per day
+	- Put as many tasks as possible on autopilot
+		- Do the same type of task at the same time on the same day every week
+		- Create a ritual that your perform before you begin (like going to get a cup of coffee)
+		- If possible do the autopilot tasks in a specific location every week
+	- Prefer in person conversations and calls over IMs and emails
+	- Make others do more before you start
+		- Direct them to add it to your task list inbox
+		- Make them do all the prep work before you'll start
+			- Locate and attach documents
+			- Clearly define requirements
+			- Create a definition of done
+	- Avoid task engines
+	- Use a pull based workload in a push based system
+		- Use an intake process with standardized messages
+			- Be clear with what you need from them
+			- Be clear about when you will start working on their project and when you think it will be done
+		- Use a Holding Tank and Active list project/task management structure
+		- Autopilot weekly task cleanup/update built around a ritual
+	- Make your workload public
+		- Provide planned sporadic updates
+			- Sending updates should be part of your autopilot cleanup task
+			- Don't send updates unless you have something to update
+			- Tell them if you're going to miss the estimate
+		- Show don't tell
+	- People care more about getting you to agree to do something than actually getting it done
+	- Work from home whenever you can
+	- Decline all meetings you can
+	- Slowly release small parts of a finished project over time even if you have a lot done
+- Work at a natural pace
+	- Make a 5 year plan
+	- Double your estimates
+	- Simplify your workday
+		- Reduce the number of tasks you schedule
+		- Reduce the number of meetings
+	- Observe how many takes you take on average per day and slash it by 25-50%
+	- Forgive yourself for missing deadlines. To human is to error.
+	- Off season
+		- Identify your companies off season (typically around end of year)
+		- Deflect taking on new work until the season ends
+		- Try to implement no meeting Mondays
+		- Embrace "quiet quitting" during the off season
+		- Leave work early once a month to do something special
+			- See a movie
+			- Go to a museum
+			- Go to the zoo
+	- Schedule rest projects
+	- Work in cycles
+		- Try to work 6 weeks on 2 weeks off
+			- No one will really notice if you're not doing much for 2 weeks
+			- The intense effort output in the 6 week period will outweigh the 2 week slowdown
+	- Remote work != work from home
+		- Context switching between "work mode" and "home mode" is expensive
+		- Context switching cannot be controlled and will be triggered by minor things such as a pile of dirty laundry
+- Obsess over quality
+	- Learn about what make other creative works high quality
+	- Start or join a group of like minded professionals
+		- They will provide honest feedback
+		- Forces you to be in a "higher gear" because you're performing in front of a crowd
+		- A group of professionals will have better taste than any one individual
+	- Invest in your tools
+		- Spend money on expensive notebooks, pens, keyboards, or software
+		- Spending money triggers an "I'm a professional" mindset
+		- Invest in creating custom workstations
+			- Use a custom or bespoke operating system
+			- Use a highly configurable code editor
+	- Bet on yourself
+		- Work on personal projects in the evenings or when you have spare time
+		- Temporarily dedicate free time to something that interest you
+		- Reduce your salary (work 10 out of 12 months a year)
+			- Forces your personal projects to provide an income
+			- Forces you to take your personal projects seriously
+		- Announce a schedule
+			- Failing to achieve your goals by an announced date allows you to leverage guilt or shame as a motivator
+		- Investments
+			- Get someone to in vest money in your personal projects
+			- Get someone to invest time and energy into your personal projects
+- Give a shit
