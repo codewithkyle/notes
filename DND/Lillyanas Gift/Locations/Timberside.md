@@ -1,6 +1,7 @@
-![[Timberside.png]]
 
 >Timberside is characterized by its sturdy wooden structures and expansive fields of golden wheat, stretching out beyond the town’s limits. The town is built along the banks of a gentle river, with the grand wooden fortifications and an imposing keep overlooking the settlement from a hill located at the heart of the small city. The streets are lined with timber-framed houses and bustling market stalls, all surrounded by dense, towering forests that offer both resources and a natural barrier from potential threats.
+
+![[Timberside.png]]
 
 Nestled beside a lush, sprawling forest and a fertile river valley, Timberside thrives as a vital hub for timber and wheat production. Under the stewardship of Duke Garret Campbell, the town has grown from a small logging outpost into a bustling community renowned for its craftsmanship and rich agricultural output. The people of Timberside are known for their industrious spirit and close-knit camaraderie, making it a welcoming haven for travelers and traders.
 
