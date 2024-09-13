@@ -1,5 +1,5 @@
 **Notes**
-- Elodin's goal: he wants to die (to meet his god
+- Elodin's goal: he wants to die (to meet his god)
 - Elodin tests Jon's faith to Arcturus -- he doesn't know anything
 - Jon gets grilled about his true intentions
 - Elodin uses the zone of truth to confirm his suspensions that Jon isn't actually a follower of Arcturus 
