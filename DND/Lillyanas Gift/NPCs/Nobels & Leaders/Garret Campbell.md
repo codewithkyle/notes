@@ -1,5 +1,5 @@
 **Title:** Duke
-**Location:** ??
+**Location:** [[Timberside]]
 
 ![[Garret Campbell.png]]
 
