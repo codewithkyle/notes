@@ -5,6 +5,8 @@
 
 Nestled beside a lush, sprawling forest and a fertile river valley, Timberside thrives as a vital hub for timber and wheat production. Under the stewardship of Duke Garret Campbell, the town has grown from a small logging outpost into a bustling community renowned for its craftsmanship and rich agricultural output. The people of Timberside are known for their industrious spirit and close-knit camaraderie, making it a welcoming haven for travelers and traders.
 
+**Leader:** Duke [[Garret Campbell]]
+
 ### Lumber Mill
 
 **Owner:** Harlan Grimsby

@@ -70,10 +70,10 @@
 
 ### Rewards
 
-**Puzzle:** 5000xp
-**Defeating the creature:** ???
-**Total:** ???
-**Per player:** ???
+**Puzzle:** 5,000xp
+**Defeating the creature:** 10,000xp
+**Total:** 15,000xp
+**Per player:** 3,000xp
 
 #### Items & Bonuses
 
