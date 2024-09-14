@@ -1,3 +1,5 @@
+**Location:** [[Timberside]]
+
 ## Introduction
 
 ### Duke Garret Campbell
