@@ -1,7 +1,9 @@
 **Nickname:** Tall Duffy
-
 **City:** ???
 **Location in the city:** ???
+**Occupation:** ???
+
+![[duffy mcgill.png]]
 
 An exceptionally thin human man, whos' gaunt features are exacerbated by his above-average height, Duffy McGill ("Tall Duffy" to all who know him and many who don't) is soft spoken but sturdy in demeanor and used to hunching down a bit to look folks in the eye. Which he always dose. Perhaps for too long.
 

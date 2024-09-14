@@ -1,5 +1,5 @@
 **Title:** Lady
-**Location:** Maplemill
+**Location:** [[Maplemill]]
 **Nickname:** Max
 
 ![[Maxine Margaster.png]]

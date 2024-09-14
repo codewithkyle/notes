@@ -2,6 +2,8 @@
 **Location in the city:** The Timbered Tankard
 **Occupation:** Bar Wench
 
+![[sedona myth.png]]
+
 A gossip-trader with a gift for gab, Sedona Myth knows a little something about nearly everyone in the part of the city she calls home. She has a lovely family, a habit of making boring stories more scandalous and a price on her head - a consequence of an embellished tale about Janeen Montclair that made its way to Janeen's father Kart, a powerful merchant with deep pockets and a strong sense of honor.
 
 #### Appearance

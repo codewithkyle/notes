@@ -2,6 +2,8 @@
 **Location in the city:** His tavern - The Drunken Monkey
 **Occupation:** The Kingmaker
 
+![[kingmaker.png]]
+
 The Kingmaker is a stylish and cunning tiefling outlaw with a devilish grin, known for secretly manipulating power and raising unlikely individuals to prominence.
 
 #### Appearance
