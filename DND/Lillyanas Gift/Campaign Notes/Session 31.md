@@ -14,4 +14,22 @@
 
 TL;DR - The party escapes Dimhall under the cover of night and begins traveling SE towards Timberside on their long journey to Freyhorn.
 
+### Traveling through the forest
+
+![[moonlit-path-east-of-dimhall.png]]
+
+>As you venture deeper into the dense forest outside Dimhall, the towering trees seem to close in, their twisted branches forming a canopy that blocks out the moonlight. The only sounds are the crunch of leaves beneath your boots and the distant call of nocturnal creatures, their eyes glinting in the shadows. A cold mist rolls through the underbrush, clinging to your skin like icy fingers, and the scent of damp earth fills the air. The winding path ahead is barely visible, swallowed by the oppressive darkness, but you press on, driven by the need to stay ahead of your pursuers. Every step feels like it could bring danger, yet the deep silence of the forest seems to wait, watching, as if the woods themselves are aware of your presence.
+
+**Inject [[Heart Rot]] quest hook**
+
+### Traveling through the hills
+
+![[hills-east-of-dimhall.png]]
+
+>The rolling hills stretch out before you, a patchwork of rocky outcrops and wild grasses swaying gently in the wind. The path ahead winds upward, each step revealing a new rise or hidden valley, the sun casting long shadows as it dips toward the horizon. The air is crisp, carrying the scent of pine and fresh earth, but the climb is exhausting, and the distant peaks loom like silent sentinels watching your progress. Every so often, a hawk cries overhead, its silhouette a dark streak against the sky, as if reminding you of how isolated you’ve become. Timberside lies beyond these hills, but each rise feels steeper than the last, and the rugged terrain tests both your endurance and resolve.
+
+**Describe heading back into the woods after a few days to travel**
+
+**Inject [[Timberside]] description as they arrive**
+
 ### Notes
