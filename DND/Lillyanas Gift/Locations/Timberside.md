@@ -19,7 +19,7 @@ Harlan Grimsby, a shrewd and hardworking businessman with a deep connection to T
 
 ### The Timbered Tankard
 
-**Owner:**: Elena Thornfield - female half-elf
+**Owner:** Elena Thornfield - female half-elf
 **Employee:** [[Sedona Myth]]
 
 **Exterior**
