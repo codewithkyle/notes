@@ -68,6 +68,19 @@
 
 **Begin combat with the Pustulent Shambler**
 
+### Combat Dialog
+
+- "I have slumbered in blood, and now I rise in ruin!"
+- "Your flesh will fuel my eternal hunger!"
+- "You thought yourselves victors, but you are my liberators."
+- "I have tasted the blood of gods, what makes you think you stand a chance?"
+- "The heart beats again, and with it, your doom!"
+- "You have freed me, but now I shall enslave your souls!"
+- "The ritual was only the beginning; your suffering is eternal!"
+- "Feel the power of centuries of hate and torment!"
+- "Your world will bleed as mine once did!"
+- "I will tear apart the very fabric of your reality!"
+
 ### Rewards
 
 **Puzzle:** 5,000xp
