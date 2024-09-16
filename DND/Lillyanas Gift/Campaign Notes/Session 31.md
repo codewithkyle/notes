@@ -20,7 +20,7 @@ TL;DR - The party escapes Dimhall under the cover of night and begins traveling 
 
 >As you venture deeper into the dense forest outside Dimhall, the towering trees seem to close in, their twisted branches forming a canopy that blocks out the moonlight. The only sounds are the crunch of leaves beneath your boots and the distant call of nocturnal creatures, their eyes glinting in the shadows. A cold mist rolls through the underbrush, clinging to your skin like icy fingers, and the scent of damp earth fills the air. The winding path ahead is barely visible, swallowed by the oppressive darkness, but you press on, driven by the need to stay ahead of your pursuers. Every step feels like it could bring danger, yet the deep silence of the forest seems to wait, watching, as if the woods themselves are aware of your presence.
 
-**Inject [[Heart Rot]] quest hook**
+**Inject [[Heart Rot ✅]] quest hook**
 
 ### Notes
 
