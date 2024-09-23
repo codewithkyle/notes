@@ -31,6 +31,6 @@ TL;DR - The party escapes Dimhall under the cover of night and begins traveling 
 - They go into the hole
 - They solve the puzzle
 - Bonerot
-	- Abenthy
-	- Rocky
-	- Guy
+	- Abenthy 2 (saved)
+	- Rocky 2 (saved)
+	- Guy 2 (saved)

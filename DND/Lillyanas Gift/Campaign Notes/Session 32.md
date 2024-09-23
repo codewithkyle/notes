@@ -9,3 +9,17 @@
 **Describe heading back into the woods after a few days to travel**
 
 **Inject [[Timberside]] description as they arrive**
+
+### Notes
+
+- Survived the Bonerot disease
+- Started [[Supply Chain Woes]] quest
+	- Spoke to merchant
+	- Spoke to Duke
+		- He offered 1000gp and a horse + wagon as payment
+	- Tried to intimidate and convince the Duke to give them a cart as bait
+		- He wanted it to be the cart he owes them
+	- Investigated attack site
+	- Learned it's a large grey lizard that attacked the merchants
+	- The tree is OK
+	- Jon stayed behind at the Duke's keep to ease drop
