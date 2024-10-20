@@ -1,0 +1,5 @@
+Once-respected figure in Maplemill’s elite, now known for his shady dealings and hunger for power. Baron Kessler has a long-standing grudge against the Margaster family, especially Ronnie, who had uncovered evidence of Kessler’s illegal siphoning of city resources to fund his own ambitions. Kessler has been quietly selling off supplies meant for the war effort, possibly even to the enemy, Deadwall.
+
+**Motivation**: Kessler is desperate to keep his corruption hidden, especially since Duke Darville Margaster is away at war and unable to intervene. With Ronnie dead, Kessler sees an opportunity to expand his influence and eliminate any remaining Margasters who might pose a threat—namely Maxine. The group the party saw at the funeral were hired by Kessler to monitor and, if necessary, silence anyone looking too closely at Ronnie’s death.
+
+Kessler is connected to both the city’s inner politics and the larger conflict with Deadwall, making him a formidable enemy. His influence in Maplemill could extend to other nobles, merchants, and even corrupt city guards, adding complexity to how the party approaches this noble and his machinations.
