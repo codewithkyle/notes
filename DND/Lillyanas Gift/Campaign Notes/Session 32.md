@@ -13,7 +13,7 @@
 ### Notes
 
 - Survived the Bonerot disease
-- Started [[Supply Chain Woes]] quest
+- Started [[Supply Chain Woes ✅]] quest
 	- Spoke to merchant
 	- Spoke to Duke
 		- He offered 1000gp and a horse + wagon as payment

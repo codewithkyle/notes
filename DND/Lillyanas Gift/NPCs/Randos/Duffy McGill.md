@@ -1,5 +1,5 @@
 **Nickname:** Tall Duffy
-**City:** ???
+**City:** [[Timberside]]
 **Location in the city:** ???
 **Occupation:** ???
 

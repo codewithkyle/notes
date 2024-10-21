@@ -23,3 +23,21 @@
 >At the end of the bridge stands a massive wooden gate, towering over you, reinforced with iron bands and etched with the marks of Maplemill’s history. The scent of wood and water fills the air as you approach, the steady creak of the gate opening like a herald to the city within. Beyond the gate, the bustle of the city awaits, its streets lined with artisans, merchants, and the rhythmic hum of industry.
 
 ### Notes
+
+- Went back to the dukes estate to steal the ledger Jon found the other day
+- Jon noticed the merchant had a new pair of handcuffs
+- Jon messed with the merchant
+- Jon leads the party to the site of where the prisoner died
+	- Elodin uses speak with dead. No useful info is gained.
+	- Found a note on the dead guy to his sister Kiara Hardyng: he's sorry
+- Brought the Death Slaad into town
+	- Drew in a crowd
+	- The duke arrived
+	- Used speak with dead to talk to the Death Slaad
+		- Useless answers
+		- Spoke in slaad
+		- Mostly responded with insults
+- Completed [[Supply Chain Woes ✅]]
+- Got a horse and cart 
+- Bought a horse
+- Horse names: Whinney & Baggo
