@@ -108,3 +108,37 @@ And with that, the warmth, the fire, the boy—everything—vanishes, replaced b
 Suddenly, your filled with an overwhelming sensation of life—of breath, of warmth, of the familiar weight of your body. Your surroundings blur back into focus, and you feel the familiar ground beneath your feet. A coldness returns as you're pulled back into the world, the warmth of that fleeting vision fading into the distant memory.
 
 The spell **Revify** has pulled Guy back from death.
+
+### Traveling
+
+After days of travel through the rugged mountain pass, the landscape begins to change. The steep cliffs and craggy rocks give way to a dense, windswept forest. The air grows cooler as the trees thicken, their branches forming a canopy overhead that casts dappled shadows on the forest floor. The sounds of the mountain winds are replaced by the rustling of leaves and the occasional chirp of a distant bird. The scent of pine and earth fills the air, grounding you in the serenity of the forest’s embrace.
+
+#### Arriving at Freyhorn
+
+The path ahead is narrow and winding, but after some time, you catch sight of Freyhorn—one of the 3 major kingdoms of eastern tak. A large city known for it's shipping industry as it sits nestled along the shores of the Sleeping Waters.
+
+The buildings are simple, made from timber and stone, with smoke curling up from their chimneys on this cold autumn day. It’s a place of few words, where folk travel mostly by boat, and the rhythm of life is dictated by the quiet lapping of the water against the shore. As you traverse the city you cross many small bridges spanning narrow channels filled with flat square barges topped with goods.
+
+**Is there anything specific anyone would like to do?**
+
+As you approach the bay, you can see the docks filled weathered boats. The harbor is  bustling with activity. Fishermen sort through their catch, and merchants prepares for a voyage across the waters.
+
+A grizzled old captain who watches the horizon with eyes that have seen much. He nods when you approach, as though expecting your arrival. “Aye,” he says with a gravelly voice, “I’ll take ye to the mountain island. But the journey is not for the faint of heart. The Sleeping Waters are fickle, and the mountain’s summit is no easy climb.”
+
+#### Sailing to Mt. Nokoborg
+
+The boat gently rocks as you board, the crew readying the sails. The wind picks up, and the water ripples beneath you, moving in strange, shifting patterns that seem almost unnatural. The mountain island looms in the distance, its dormant volcanic peak rising high above the horizon, cloaked in mist and mystery.
+
+As the boat sets sail, you feel the cool spray of the water on your face, and the distant, foreboding silhouette of Mt. Nokoborg draws nearer. The journey is long but steady, and as the island’s shores begin to come into view.
+
+#### Hiking Up Mt. Nokoborg
+
+You disembark and the ship sails off into the mist. The hike up Mt. Nokoborg is a grueling ascent. The path grows steeper and more treacherous as you climb, the rocky terrain giving way to thick patches of ash and sparse, stubborn vegetation. Each step requires careful footing as loose rocks shift underfoot and the thin mountain air makes each breath feel a little more strained. The summit looms above, shrouded in mist, and the farther you climb, the more the silence presses in—broken only by the occasional distant rumble from deep within the dormant volcano. The weight of the mountain feels heavier with every step, but your resolve pushes you onward, the promise of meeting the potion maker.
+
+#### The Potion Makers Shop
+
+As you crest the peak you lay your eyes upon the potion maker’s home atop Mt. Nokoborg. It is a humble, yet cozy cabin, perched precariously on the edge of the summit. Its stone walls are weathered, worn smooth by the harsh mountain winds, while the roof, made of mismatched shingles, sags slightly under the weight of years. Vines and moss creep up the sides, clinging to the building as though they too are trying to take root in this harsh, isolated place.
+
+A small chimney puffs out smoke, signaling warmth and life within. The front door is made of rough-hewn wood, slightly ajar, and you can see colorful glass bottles and jars lining the windowsills, their contents glowing faintly with a magical shimmer. The air around the cabin smells faintly of herbs, spices, and something... not quite right, as if the very essence of the mountain has infused this place with its own energy.
+
+A small garden, made up of hardy plants and peculiar flowers, surrounds the home, and a worn path leads up to the door, the final marker of a long journey toward the eccentric alchemist’s domain.
