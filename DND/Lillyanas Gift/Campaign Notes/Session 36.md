@@ -80,3 +80,31 @@ Have Rocky roll and arcana check DC 8.
 **Failure**
 
 >Do not become frustrated with your failure little one. I can sense the magic within you. Perhaps later when you're more relaxed try again.
+
+### Death of (a) Guy
+
+As Guy falls, the world around him fades to darkness. His last breath seems to hang suspended in time, and for a moment, there is nothing but stillness—a void of silence and weightlessness.
+
+Then, suddenly, warmth floods back into your senses.
+
+A gentle crackle of fire greets you. You feel the heat on your face, the faint scent of burning wood filling your nostrils. The space around you is small, cozy, familiar? The walls are modestly decorated, shelves laden with trinkets and knick-knacks. A hearth crackles in the center of the room, casting long shadows across the wooden floor.
+
+Before the fire sits a small boy, perhaps no older than five or six. He’s playing with rough hand carved wooden toys, his hands moving with the innocent focus of a child at play. His hair is tousled, and his clothes are simple but well-worn. The boy’s little brow furrows as he concentrates, unaware of the presence behind him.
+
+Then, as if sensing something, the boy stops. Slowly, he tilts his head upward, his eyes wide with shock.
+
+For a moment, the world seems to freeze—the crackle of the fire, the sound of wind, all become distant and muted. The boy's lips part in disbelief, his voice trembling as he says
+
+>"Dad?"
+
+The word hangs in the air, heavy with meaning. The warmth of the fire, the comfort of this place, the familiarity of the boy’s face—it all feels almost familiar. The figure you sees, so full of innocence, drops his toys as he begins to clamber to his feet.
+
+But before you can respond, before you can even take a step closer to the boy, the world around you begins to unravel. The warmth starts to fade, the flickering light dims, and the image of the boy distorts as if the very fabric of this realm is slipping away from you.
+
+You feel a sharp, almost painful tug pulls at your very essence, like something is yanking you from this world—back to the cold, harsh reality. The boy’s face begins to blur, his voice now a distant echo.
+
+And with that, the warmth, the fire, the boy—everything—vanishes, replaced by the darkness once again.
+
+Suddenly, your filled with an overwhelming sensation of life—of breath, of warmth, of the familiar weight of your body. Your surroundings blur back into focus, and you feel the familiar ground beneath your feet. A coldness returns as you're pulled back into the world, the warmth of that fleeting vision fading into the distant memory.
+
+The spell **Revify** has pulled Guy back from death.
