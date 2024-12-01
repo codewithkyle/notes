@@ -127,9 +127,11 @@ A grizzled old captain who watches the horizon with eyes that have seen much. He
 
 #### Sailing to Mt. Nokoborg
 
-The boat gently rocks as you board, the crew readying the sails. The wind picks up, and the water ripples beneath you, moving in strange, shifting patterns that seem almost unnatural. The mountain island looms in the distance, its dormant volcanic peak rising high above the horizon, cloaked in mist and mystery.
+The boat gently rocks as you board, the crew readying the sails. The mountain island looms in the distance, its dormant volcanic peak rising high above the horizon, cloaked in mist and mystery. The wind picks up as you sail, and the water ripples beneath you, moving in strange, shifting patterns that seem almost unnatural.
 
-As the boat sets sail, you feel the cool spray of the water on your face, and the distant, foreboding silhouette of Mt. Nokoborg draws nearer. The journey is long but steady, and as the island’s shores begin to come into view.
+**Juvenile Kraken attack**
+
+As the beasts retreats back below the waters surface you look up to find the island’s shores begin to come into view.
 
 #### Hiking Up Mt. Nokoborg
 
