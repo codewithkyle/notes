@@ -8,6 +8,20 @@
 - Spell save should be 17 not 19
 - Spell attack should be 9 not 11
 
+### Notes
+
+- The lady in red returns with her cronies
+- They fuck up guy
+- Guy dies
+- Guy is returned to his family home back in his real world
+- Guy sees his son
+- The party attempts to revive Guy
+- Guy has an unwilling soul and isn't revived
+- The party travels to the top of Mt. Nokoborg
+- They meet [[Professor Pindar Fizzlenock]]
+- They take his air ship (heading to The White Mountains)
+- As payment they need to collect 12 different specimens, fauna, or strange substances that Pin can use in his research
+
 ### Golden Dragon Longbow
 
 ![[golden-dragon-longbow.png]]
