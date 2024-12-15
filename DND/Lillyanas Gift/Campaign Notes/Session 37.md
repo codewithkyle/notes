@@ -1,6 +1,16 @@
 ## Introduction
 
-TBD
+>Previously, in our adventure...
+>
+>The Lady in Red returned, flanked by her sinister cronies, her presence as chilling as ever. In a swift and brutal attack, she targeted Guy, driving a dagger unlike any you’ve seen—a twisted, wicked blade—deep into his body. As she did, her voice dripped with malice: "I stole your name before, but now, I’ll take your soul." Her words proved true. Guy fell, his life extinguished, his soul slipping beyond your reach. Even your attempts to bring him back failed, his unwilling spirit refusing to return.
+>
+>The battle raged on, and once again, Radron met his end at your hands, his threat vanquished—for now. But the toll was heavy. With Guy gone and the dangers mounting, Elodin made a difficult decision. He left your company, choosing to return to the Astral Realm, deeming the journey too perilous without Abenthy.
+>
+>Yet, even in your grief, the mission pressed forward. Scaling the peak of Mt. Nokoborg, you encountered Professor Pindar Fizzlenock, an eccentric gnome with a mind brimming with ideas and inventions. In exchange for passage aboard his marvelous airship, you agreed to a peculiar deal: to gather 12 rare specimens, flora, fauna, or substances to aid him in his research.
+>
+>And now, aboard this wondrous vessel, you soar toward The White Mountains, seeking an ancient weapon that you will use to defeat [[Lysandra]]. What awaits you in this untamed expanse? And how will you honor the memory of your fallen friend as the story continues?
+
+## Notes
 
 ## Traveling in the Air Ship
 

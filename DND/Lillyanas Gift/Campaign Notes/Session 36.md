@@ -12,11 +12,13 @@
 
 - The lady in red returns with her cronies
 - They fuck up guy
+- The lady in red stabs a funky lookin dagger into Guy - The lady in red says something about stealing his name but now she's taking his soul
 - Guy dies
 - Guy is returned to his family home back in his real world
 - Guy sees his son
 - The party attempts to revive Guy
 - Guy has an unwilling soul and isn't revived
+- Elodin returns to the astral realm after deciding its too dangerous to continue with Abenthy
 - The party travels to the top of Mt. Nokoborg
 - They meet [[Professor Pindar Fizzlenock]]
 - They take his air ship (heading to The White Mountains)
