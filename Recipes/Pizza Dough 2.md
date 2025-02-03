@@ -20,9 +20,10 @@ allow dough to rise for 1 hour
 
 preheat oven to 450f
 
-flatten onto pizza stone
-add sauce
+lightly flour pizza stone
+punch dough down
+spread on stone (lift, pull, and press)
+add sauce (keep it thin)
 add cheese
 add toppings
-
-cook for 15 minutes
+cook for 12-15 minutes
